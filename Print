@@ -1,0 +1,5 @@
+import pyhton
+a=input("Input your name")
+print(a)
+
+
